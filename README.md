@@ -16,6 +16,11 @@ After set of eploratory analysis on the data, here are the questions I'd like to
 
 With more time and data available, I'd like to extend my research on symptom similarities of different medications or creating a recommender system of possible illnesses or medications to avoid based on patient medical history. Also  I've oticed that there are generic and brand drugs available - are there any differences between the two.
 
+### Libraries needed for the project:
+pandas
+nympy
+spacy
+
 ### Acknowledgments
 The dataset was originally published on the UCI Machine Learning repository. Citation:
 
